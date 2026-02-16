@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+# Airflow logs
+logs/
+# Airflow config
+config/
+plugins/
+# Environment variables
+.env
+# Generated files
+data/extracted.csv
+data/transformed.csv
