@@ -58,3 +58,5 @@ Uses if_exists="replace" to refresh table
 Output:
 
 The final table traffic_challan_analytics contains enriched analytics-ready data suitable for dashboards and reporting.
+
+<img width="952" height="434" alt="image" src="https://github.com/user-attachments/assets/e8c21849-2499-4e2c-b174-f4f858a67ba1" />
